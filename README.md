@@ -9,5 +9,5 @@
 - Pros: The data is on chain
 - Cons: muck more expensive
 
-If price of ETH is higher than a certain amount happy 
+If price of ETH is higher than a certain amount_> happy /
 reverse ->frown
